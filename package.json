@@ -17,5 +17,9 @@
     "@babel/preset-env": "^7.4.1",
     "@babel/preset-typescript": "^7.3.3",
     "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "@types/tabulator-tables": "^4.2.4",
+    "tabulator-tables": "^4.2.7"
   }
 }
