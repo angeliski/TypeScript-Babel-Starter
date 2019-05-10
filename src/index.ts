@@ -8,7 +8,7 @@ export let x = new C();
 export let y = { ...{ some: "value" } }
 
 
-import Tabulator from 'tabulator-tables';
+const Tabulator = require('tabulator-tables');
 
 const tabulatorInstance : Tabulator = new Tabulator(
     []
